@@ -1,0 +1,28 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Gradle ###
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+### Logs ###
+*.log
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Spring ###
+**/application-*.yml
+**/application-*.properties
+
+### Java ###
+*.class
+
+### Other ###
+/bin/
+/tmp/
